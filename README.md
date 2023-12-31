@@ -6,7 +6,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 **BATCH : DW73DW74**
 
-**PROJECT : 4**
+**GUVI PROJECT : 4**
 
 ## Skills take away From This Project ##
 
